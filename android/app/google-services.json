@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978249326561",
+    "project_id": "local-walker",
+    "storage_bucket": "local-walker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978249326561:android:b34bc85cc8d60345ca7ca0",
+        "android_client_info": {
+          "package_name": "com.localwalker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrj7N6kAuJVYBWFcQQhgIZZ3b7S_ACOhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
