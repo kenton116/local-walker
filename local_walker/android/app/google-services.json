@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604537597515",
+    "project_id": "local-walker-91486",
+    "storage_bucket": "local-walker-91486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604537597515:android:31346fb59e4ad80f01a7ce",
+        "android_client_info": {
+          "package_name": "com.example.local_walker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-wNcV7qCXco0ya-NYHt2Ioq29iUAJ4uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
