@@ -184,7 +184,7 @@ reportId, targetId (footprintId or userId), reason, reporterId, reportDate
   - Geofencingを使った特定エリア進入時の通知
   - 天気・時間帯に基づいたスポット提案通知
 
-## 実装ガイド
+## メモ
 
 ### Vertex AI実装
 
@@ -354,7 +354,7 @@ reportId, targetId (footprintId or userId), reason, reporterId, reportDate
 #### ストアガイドライン
 - App Store / Google Playのガイドライン準拠
 
-### 分析・モニタリング
+### 分析
 
 - **Firebase Analytics**: ユーザー行動の追跡
 - **Crashlytics**: クラッシュレポートの収集
@@ -364,7 +364,7 @@ reportId, targetId (footprintId or userId), reason, reporterId, reportDate
   - 足跡記録率
   - いいね・保存の頻度
 
-### テスト戦略
+### テスト
 
 - **単体テスト**: Flutter Widgetテスト
 - **統合テスト**: Firebase Emulator Suiteを使用
