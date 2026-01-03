@@ -70,6 +70,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '604537597515',
     projectId: 'local-walker-91486',
     storageBucket: 'local-walker-91486.firebasestorage.app',
+    iosClientId: '604537597515-43cmu3spu5fmdeqf28lt31p74d4bttnt.apps.googleusercontent.com',
     iosBundleId: 'com.example.localWalker',
   );
 
